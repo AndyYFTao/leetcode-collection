@@ -29,3 +29,6 @@
 * [Middle of the Linked List](middle_linked_list.py)
   * Given a non-empty, singly linked list with head node `head`, return a middle node of linked list.
   * If there are two middle nodes, return the second middle node.
+
+* Backspace String Compare
+ * Given two strings `S` and `T`, return if they are equal when both are typed into empty text editors. `#` means a backspace character.
