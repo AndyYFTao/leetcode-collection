@@ -32,3 +32,6 @@
 
 * [Backspace String Compare](backspace_string_compare.py)
   * Given two strings `S` and `T`, return if they are equal when both are typed into empty text editors. `#` means a backspace character.
+
+* Min Stack
+  * Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
