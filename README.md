@@ -39,3 +39,11 @@
 * [Diameter of Binary Tree](diameter_of_binary_tree.py)
   * Given a binary tree, you need to compute the length of the diameter of the tree. The diameter of a binary tree is the length of the **longest** path between any two nodes in a tree. This path may or may not pass through the root.
   * The length of path between two nodes is represented by the number of edges between them.
+  
+*  [Last Stone Weight](last_stone_weight.py)
+  * We have a collection of stones, each stone has a positive integer weight.
+  * Each turn, we choose the two **heaviest** stones and smash them together. Suppose the stones have weights `x` and `y` with `x <= y`. The result of this smash is:
+    * If `x == y`, both stones are totally destroyed;
+    * If `x != y`, the stone of weight `x` is totally destroyed, and the stone of weight `y` has new weight `y-x`.
+  * At the end, there is at most 1 stone left.  Return the weight of this stone (or 0 if there are no stones left.)
+
