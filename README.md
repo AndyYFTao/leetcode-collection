@@ -57,3 +57,7 @@
     * A left shift by 1 means remove the first character of `s` and append it to the end.
     * Similarly, a right shift by 1 means remove the last character of `s` and add it to the beginning.
   * Return the final string after all operations.
+
+* [Product of Array Except Self](prod_of_arr_except_self.py)
+  * Given an array `nums` of n integers where n > 1,  return an array `output` such that `output[i]` is equal to the product of all the elements of `nums` except `nums[i]`.
+  * Please solve it **without division** and in O(n) with constant space complexity.
