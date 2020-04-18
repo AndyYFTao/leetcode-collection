@@ -69,3 +69,6 @@
     3. Left parenthesis `'('` must go before the corresponding right parenthesis `')'`.
     4. `'*'` could be treated as a single right parenthesis `')'` or a single left parenthesis `'('` or an empty string.
     5. An empty string is also valid.
+
+* [Number of Islands](num_of_islands.py)
+  * Given a 2d grid map of `'1'`s (land) and `'0'`s (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
