@@ -72,3 +72,6 @@
 
 * [Number of Islands](num_of_islands.py)
   * Given a 2d grid map of `'1'`s (land) and `'0'`s (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
+
+* [Minimum Path Sum](min_path_sum.py)
+  * Given a *m x n* grid filled with non-negative numbers, find a path from top left to bottom right which *minimizes* the sum of all numbers along its path. You can only move either down or right at any point in time.
