@@ -84,3 +84,7 @@
 * [Construct Binary Search Tree from Preorder Traversal](bst_from_preorder.py)
   * Return the root node of a binary **search** tree that matches the given `preorder` traversal.
   * (Recall that a binary search tree is a binary tree where for every node, any descendant of `node.left` has a value `<` `node.val`, and any descendant of `node.right` has a value `>` `node.val`.  Also recall that a preorder traversal displays the value of the `node` first, then traverses `node.left`, then traverses `node.right`.)
+
+* [Leftmost Column with at Least a One](left_col_at_least_a_one.py)
+  * A binary matrix means that all elements are `0` or `1`. For each **individual** row of the matrix, this row is sorted in non-decreasing order.
+  * Given a row-sorted binary matrix binaryMatrix, return leftmost column index(0-indexed) with at least a `1` in it. If such index doesn't exist, return `-1`.
