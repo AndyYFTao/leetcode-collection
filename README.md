@@ -94,3 +94,9 @@
 
 * [Bitwise AND of Numbers Range](bitwise_and_of_numbers_range.py)
   * Given a range \[m, n] where 0 <= m <= n <= 2147483647, return the bitwise AND of all numbers in this range, inclusive.
+
+* [LRU Cache](lru_cache.py)
+  * Design and implement a data structure for Least Recently Used (LRU) cache. It should support the following operations: `get` and `put`.
+  * `get(key)` - Get the value (will always be positive) of the key if the key exists in the cache, otherwise return -1.
+  * `put(key, value)` - Set or insert the value if the key is not already present. When the cache reached its capacity, it should invalidate the least recently used item before inserting a new item.
+  * The cache is initialized with a **positive** capacity. The algo should be in O(1) time complexity.
