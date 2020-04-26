@@ -105,3 +105,6 @@
   * Given an array of non-negative integers, you are initially positioned at the first index of the array.
   * Each element in the array represents your maximum jump length at that position.
   * Determine if you are able to reach the last index.
+
+* [Longest Common Subsequence](longest_common_subsequence.py)
+  * Given two strings `text1` and `text2`, return the length of their longest common subsequence. If there is no common subsequence, return 0.
