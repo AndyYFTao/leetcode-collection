@@ -108,3 +108,6 @@
 
 * [Longest Common Subsequence](longest_common_subsequence.py)
   * Given two strings `text1` and `text2`, return the length of their longest common subsequence. If there is no common subsequence, return 0.
+
+* [Maximal Square](maximal_square.py)
+  * Given a 2D binary matrix filled with 0's and 1's, find the largest square containing only 1's and return its area.
