@@ -111,3 +111,10 @@
 
 * [Maximal Square](maximal_square.py)
   * Given a 2D binary matrix filled with 0's and 1's, find the largest square containing only 1's and return its area.
+
+* [First Unique Number](first_unique_number.py)
+  * You have a queue of integers, you need to retrieve the first unique integer in the queue.
+  * Implement the `FirstUnique` class:
+     * `FirstUnique(int[] nums)` Initializes the object with the numbers in the queue.
+     * `int showFirstUnique()` returns the value of **the first unique** integer of the queue, and returns **-1** if there is no such integer.
+     * `void add(int value)` insert value to the queue.
